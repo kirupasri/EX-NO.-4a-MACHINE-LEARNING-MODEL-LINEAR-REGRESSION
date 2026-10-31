@@ -1,4 +1,4 @@
-# Ex.No-3b-DATA PREPROCESSING
+# Ex.No-3b-DATA PREPROCESSING                                       Date:31/10/2026
 ## Aim
 To perform data preprocessing on a dataset using Python and Scikit-learn by handling missing values, encoding categorical data, splitting the dataset, and applying feature scaling. 
 ## Procedure
@@ -126,6 +126,6 @@ print(x_test)
 
 <img width="440" height="291" alt="image" src="https://github.com/user-attachments/assets/c56d9cf9-14b7-49f5-97bd-ee0449c7bacc" />
 
-## Conclusion
+## Result
 Thus, the given dataset was successfully preprocessed by handling missing values, encoding categorical variables, splitting the data into training and testing sets, and performing feature scaling.
 
